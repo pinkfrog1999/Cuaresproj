@@ -1,0 +1,18 @@
+admin
+	@add menu
+	@delete menu
+	@edit menu
+	
+	@add order
+	@delete order
+	
+	@add reservations
+	@delete
+	
+	@view reservations
+	@claim reservations
+
+staff
+
+	@add order
+	@add reservation
